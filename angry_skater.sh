@@ -3,6 +3,7 @@
 # # # # # # Credits # # # # # #
 # Inspired by: https://ascii.co.uk/art/stickman
 # Animation created by: DampingBits https://github.com/dampingbits
+# # # # # # # # # # # # # # # #
 
 # Make terminal maximized (windowed fullscreen)
 wmctrl -r :ACTIVE: -b add,maximized_vert,maximized_horz
