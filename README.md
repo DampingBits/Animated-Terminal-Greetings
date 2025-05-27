@@ -1,3 +1,5 @@
+[![asciicast](https://asciinema.org/a/wlyxkEShK7FdaMgxuhvma6h0f.svg)](https://asciinema.org/a/wlyxkEShK7FdaMgxuhvma6h0f)
+
 # Terminal Greetings
 
 A collection of terminal animations that'll make your shell feel less lonely. Whether you're here for the fun or to steal our ASCII art secrets, you're welcome to join the party!
