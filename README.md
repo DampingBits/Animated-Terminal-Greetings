@@ -1,4 +1,4 @@
-[![asciicast](https://asciinema.org/a/wlyxkEShK7FdaMgxuhvma6h0f.svg)](https://asciinema.org/a/wlyxkEShK7FdaMgxuhvma6h0f)
+<script src="https://asciinema.org/a/wlyxkEShK7FdaMgxuhvma6h0f.js" id="asciicast-wlyxkEShK7FdaMgxuhvma6h0f" async="true"></script>
 
 # Terminal Greetings
 
