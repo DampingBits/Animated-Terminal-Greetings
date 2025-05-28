@@ -35,7 +35,7 @@ sudo yum install wmctrl      # For RHEL/CentOS
 
 2. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/terminal-greetings.git
+git clone https://github.com/DampingBits/terminal-greetings.git
 cd terminal-greetings
 ```
 
